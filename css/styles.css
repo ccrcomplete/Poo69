@@ -1,8 +1,25 @@
 *{
     font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
     /*color: #fefeff;*/
 }
 
+/* width */
+::-webkit-scrollbar {
+    width: 13px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.281);
+    border-radius: 8px;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(58, 73, 141);
+    border-radius: 5px;
+  }
 
 body {
     background-color: #ffffff;
