@@ -31,7 +31,7 @@
                     </svg>
                     <span>01 class</span>
                 </a>
-                <a href="https://www.youtube.com/watch?v=RlHwGympeYw" target="blank"
+                <a href="02-construct.php" target="blank"
                     class="bg-blue-900 flex gap-2 px-4 py-2 rounded w-[270px] hover:scale-105 opacity-90 hover:bg-blue-500 hover:opacity-100 transition-all">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                         stroke="currentColor" class="w-6 h-6">
@@ -40,7 +40,7 @@
                     </svg>
                     <span>02 constructor</span>
                 </a>
-                <a href=""
+                <a href="03-private.php"
                     class="bg-blue-900 flex gap-2 px-4 py-2 rounded w-[270px] hover:scale-105 opacity-90 hover:bg-blue-500 hover:opacity-100 transition-all">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                         stroke="currentColor" class="w-6 h-6">
